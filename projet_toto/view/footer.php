@@ -6,6 +6,7 @@
   				<a href="<?= $socialLinks->facebook->shareUrl ?>">Facebook</a>&nbsp;|
   				<a href="<?= $socialLinks->twitter->shareUrl ?>">Twitter</a>&nbsp;|
   				<a href="<?= $socialLinks->linkedin->shareUrl ?>">LinkedIn</a>
+          <p>Un paragrapheeeeeeeeeeeeeeeeeeeee</p>
   			</div>
   		</div>
 	</div>
